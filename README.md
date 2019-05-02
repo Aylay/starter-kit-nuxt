@@ -12,6 +12,17 @@ yarn
 
 Everything is ready to code ;)
 
+## To code
+```sh
+yarn dev
+```
+
+## To export in HTML files
+```sh
+yarn generate
+```
+And copy the `dist` folder
+
 ## Others
 - [Knacss](https://www.knacss.com/) is automatically installed. If you want to use it, you can import it from `node_modules` in your scss files like `assets/stylesheets/style.scss`.
 - [Sitemap](https://github.com/nuxt-community/sitemap-module)
