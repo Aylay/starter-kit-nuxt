@@ -1,0 +1,34 @@
+{
+  "name": "starter-kit-nuxt",
+  "version": "1.0.0",
+  "author": "Aylay <luk.tattali@gmail.com>",
+  "repository": "https://github.com/Aylay/starter-kit-nuxt.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.6.3"
+  },
+  "devDependencies": {
+    "@ax2/lozad-module": "^0.1.2",
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "@nuxtjs/pwa": "^3.0.0-beta.14",
+    "@nuxtjs/sitemap": "^1.1.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-vue": "^5.2.2",
+    "extract-css-chunks-webpack-plugin": "^4.3.2",
+    "knacss": "^7.1.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.6.10",
+    "vue-svg-loader": "^0.12.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
