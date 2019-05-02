@@ -18,6 +18,7 @@ Everything is ready to code ;)
 - [PWA](https://pwa.nuxtjs.org/)
 - [lozad](https://github.com/ax2inc/lozad-module)
 - SVG inline loader
+- [fontawesome](https://github.com/FortAwesome/Font-Awesome)
 
 ### Add lozad in your img
 - Add `lozad` class in your img
